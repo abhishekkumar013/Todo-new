@@ -1,0 +1,10 @@
+.container{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+   
+    width: 650px;
+    height: 400px;
+}
